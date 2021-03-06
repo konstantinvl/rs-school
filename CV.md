@@ -16,4 +16,4 @@
 ``` 
 * 
 * Belarusian National Technical University, spesiality: Thermal power plants, power engineer.
-* Level of English: A2 (according to training.by test);
+* Level of English: A2 (according to training.by test); 
